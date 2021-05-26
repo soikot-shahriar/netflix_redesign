@@ -1,0 +1,214 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-image: url("https://mys12.com/netflix/img/background.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.lol{
+    display: flex;
+    height: 70px;
+ 
+}
+
+#logo{
+    align-items: left;
+    border-image: none;
+}
+
+img{
+    margin-top: -55px;
+}
+.src{
+    
+    align-items: right;
+    padding-left: 75%;
+    margin-top: 20px;
+}
+
+button{
+    height: 30px;
+    width: 80px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    border-color: none;
+    
+}
+
+.text{
+    text-align: center;
+    color: white;
+    font-size:  65px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 12%;
+}
+
+#third{
+    font-size: 25px;
+    font-weight: normal;
+}
+#fourth{
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.box{
+    display: flex;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+
+input{
+    height: 65px;
+    width: 500px;
+}
+#btn{
+    height: 69px;
+    width: 300px;
+    border-radius: 0%;
+    font-size: 30px;
+}
+
+
+
+.text2{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+
+hr{
+    height: 10px;
+    background-color: #001a13;
+    border-style: none;
+}
+
+section{
+    background-color: black;
+    height: 250px;
+    width: auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.right{
+    margin-top: 120px;
+    margin-left: 170px;
+}
+
+#part1{
+    font-size: 50px;
+    font-weight: bolder;
+    
+}
+
+#part2{
+    font-size: 25px;
+    
+}
+
+#img{
+margin-left: 50%;
+height: 250px;
+width: auto;
+margin-top: -15%;
+}
+
+#img2{
+    height: 250px;
+    width: auto;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+#p1, #p2{
+    font-size: 60px;
+    font-weight: bolder;
+    margin-left: 45%;
+    margin-top: -14%;
+}
+
+#p2{
+    margin-top: -.5%;
+}
+
+#p3{
+    font-size: 25px;
+    margin-left: 45%;
+    margin-top: 2%;
+}
+
+#img3{
+    height: 350px;
+    width: auto;
+    margin-left: 52%;
+    margin-top: 5%;
+}
+
+#watch{
+    font-size: 60px;
+    font-weight: bolder;
+    margin-left: 10%;
+    margin-top: -18%;
+}
+#stream{
+    font-size: 25px;
+    margin-left: 10.5%;
+    margin-top: 2%;
+}
+.center{
+    text-align: center;
+    
+}
+#q{
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 5%;
+}
+#box{
+    border-style: solid;
+    border-color: grey;
+    background-color: grey;
+    height: 55px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 2%;
+    text-align: left;
+    padding: 2px;
+    font-size: 25px;
+}
+
+#p{
+    font-size: 25px;
+    text-align: right;
+}
+
+#box:hover{
+    cursor: pointer;
+}
+
+.ul{
+    text-align: center;
+    color: grey;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 35px;
+    padding-top: 15px;
+}
